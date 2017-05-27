@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/Users/hupeng/.android/build-cache/c9b969c702705bdb3ae8c62695eb05c18d6b3420/output/res/values-port/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 55,
+                        "endOffset": 107
+                    }
+                }
+            }
+        ]
+    }
+]
