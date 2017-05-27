@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/build/intermediates/res/merged/debug/xml/sip_identity_settings.xml",
+        "source": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/res/xml/sip_identity_settings.xml"
+    },
+    {
+        "merged": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/build/intermediates/res/merged/debug/xml/ptt_channel_settings.xml",
+        "source": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/res/xml/ptt_channel_settings.xml"
+    },
+    {
+        "merged": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/build/intermediates/res/merged/debug/xml/db_objects_settings.xml",
+        "source": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/res/xml/db_objects_settings.xml"
+    },
+    {
+        "merged": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/build/intermediates/res/merged/debug/xml/codec_settings.xml",
+        "source": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/res/xml/codec_settings.xml"
+    },
+    {
+        "merged": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/build/intermediates/res/merged/debug/xml/enum_suffix_settings.xml",
+        "source": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/res/xml/enum_suffix_settings.xml"
+    }
+]

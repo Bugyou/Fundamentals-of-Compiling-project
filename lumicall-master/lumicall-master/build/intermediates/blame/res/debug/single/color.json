@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/hupeng/.android/build-cache/c9b969c702705bdb3ae8c62695eb05c18d6b3420/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/hupeng/.android/build-cache/c9b969c702705bdb3ae8c62695eb05c18d6b3420/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/hupeng/.android/build-cache/c9b969c702705bdb3ae8c62695eb05c18d6b3420/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/hupeng/.android/build-cache/c9b969c702705bdb3ae8c62695eb05c18d6b3420/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/hupeng/.android/build-cache/c9b969c702705bdb3ae8c62695eb05c18d6b3420/output/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/hupeng/.android/build-cache/c9b969c702705bdb3ae8c62695eb05c18d6b3420/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/hupeng/.android/build-cache/c9b969c702705bdb3ae8c62695eb05c18d6b3420/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/hupeng/.android/build-cache/c9b969c702705bdb3ae8c62695eb05c18d6b3420/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/hupeng/.android/build-cache/c9b969c702705bdb3ae8c62695eb05c18d6b3420/output/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
