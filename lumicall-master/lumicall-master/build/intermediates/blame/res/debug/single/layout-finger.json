@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/build/intermediates/res/merged/debug/layout-finger/dtmf_twelve_key_dialer.xml",
+        "source": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/res/layout-finger/dtmf_twelve_key_dialer.xml"
+    },
+    {
+        "merged": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/build/intermediates/res/merged/debug/layout-finger/dialpad.xml",
+        "source": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/res/layout-finger/dialpad.xml"
+    },
+    {
+        "merged": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/build/intermediates/res/merged/debug/layout-finger/dtmf_display.xml",
+        "source": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/res/layout-finger/dtmf_display.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/hupeng/.android/build-cache/c9b969c702705bdb3ae8c62695eb05c18d6b3420/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/hupeng/.android/build-cache/c9b969c702705bdb3ae8c62695eb05c18d6b3420/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/hupeng/.android/build-cache/c9b969c702705bdb3ae8c62695eb05c18d6b3420/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/hupeng/.android/build-cache/c9b969c702705bdb3ae8c62695eb05c18d6b3420/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/hupeng/.android/build-cache/c9b969c702705bdb3ae8c62695eb05c18d6b3420/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/hupeng/Downloads/开源安卓项目研究/lumicall-master/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/hupeng/.android/build-cache/c9b969c702705bdb3ae8c62695eb05c18d6b3420/output/res/anim/abc_slide_in_bottom.xml"
+    }
+]
